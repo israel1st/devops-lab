@@ -1,0 +1,8 @@
+Timestamp: 2026-09-19 16:30:41
+Storage: 89%
+Storage available: 13G
+Memory: 74%
+Memory available: 763Mi
+Storage status: WARNING
+Memory status: OK
+Overall status: WARNING
